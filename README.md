@@ -1,5 +1,5 @@
 
-[![MasterHead](https://repository-images.githubusercontent.com/191027465/1f058580-fd74-11e9-8ca7-8d7326b53515)
+![MasterHead](https://repository-images.githubusercontent.com/191027465/1f058580-fd74-11e9-8ca7-8d7326b53515)
 <h1 align="center">Hi 👋, I'm Kiran Nikam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
