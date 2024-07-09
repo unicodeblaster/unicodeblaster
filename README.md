@@ -1,5 +1,5 @@
 
-![MasterHead](https://repository-images.githubusercontent.com/191027465/1f058580-fd74-11e9-8ca7-8d7326b53515)
+![MasterHead](https://ottomern.com/wp-content/uploads/2022/12/MERN.png)
 <h1 align="center">Hi 👋, I'm Kiran Nikam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Automation,Mern Stack,Cloud Computing**
 
-- 👯 I’m looking to collaborate on **deep learning and cloud computing ,Android Development**
+- 👯 I’m looking to collaborate on **deep learning and cloud computing ,UI UX Designing**
 
-- 🤝 I’m looking for help with **Frnot end development**
+- 🤝 I’m looking for help with **Front end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/unicodeblaster/](https://github.com/unicodeblaster/)
 
