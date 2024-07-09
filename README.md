@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- hi i am currently work on project **cloud computing**
+- hi i am currently work on project **MERN Stack And Automation**
 
-- 🌱 I’m currently learning **Android development,Cloud Computing**
+- 🌱 I’m currently learning **Automation,Mern Stack,Cloud Computing**
 
-- 👯 I’m looking to collaborate on **deep learning and cloud computing**
+- 👯 I’m looking to collaborate on **deep learning and cloud computing ,Android Development**
 
 - 🤝 I’m looking for help with **Frnot end development**
 
