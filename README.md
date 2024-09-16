@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- hi i am currently work on project **MERN Stack And QA Testing**
+- Hi i am currently work on project **MERN Stack And Angular Development**
 
 - 🌱 I’m currently learning **Automation,Mern Stack,Cloud Computing**
 
