@@ -1,4 +1,4 @@
-![MasterHead](https://tse2.mm.bing.net/th?id=OIP.objJHviA_YMM085ul5OaaQHaC9&pid=Api&P=0&h=180)
+![MasterHead](https://tse1.mm.bing.net/th?id=OIP.XJYmrCxMfrC_Gu1mmChLJAHaDN&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm Kiran Nikam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
