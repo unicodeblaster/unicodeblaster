@@ -1,16 +1,16 @@
 
-![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91:1)
+![MasterHead](https://tse2.mm.bing.net/th?id=OIP.rF-lndOHyKhwfcD117PMDQAAAA&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm Kiran Nikam</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Hi i am currently work on project **MERN Stack And Angular Development**
+- Hi i am currently work on project **Data Analyst and Visualisation**
 
-- 🌱 I’m currently learning **Automation,Mern Stack,Cloud Computing**
+- 🌱 I’m currently learning **Machine learning ,Deep Leaning And Ai**
 
 - 👯 I’m looking to collaborate on **deep learning and cloud computing ,UI UX Designing**
 
-- 🤝 I’m looking for help with **Front end development**
+- 🤝 I’m looking for help with **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/unicodeblaster/](https://github.com/unicodeblaster/)
 
