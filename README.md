@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding " width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Hi i am currently work on project **Data Analyst and Visualisation**
+- Hi i am currently work on project **Data Analyst and Visualisation*
 
 - 🌱 I’m currently learning **Machine learning ,Deep Leaning And Ai**
 
